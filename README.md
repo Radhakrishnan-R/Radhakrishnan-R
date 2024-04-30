@@ -1,4 +1,4 @@
-👋 Hi, I’m @Radhakrishnan-R!
+👋 Hi, I’m @Radhakrishnan-R, and you can call me Krishna!
 
 👀 I’m interested in exploring the world of full-stack development and creating innovative web applications.
 
