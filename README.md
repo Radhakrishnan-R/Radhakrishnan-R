@@ -1,16 +1,16 @@
-👋 Hi, I’m @Radhakrishnan-R, and you can call me Krishna!
+👋 Hi, I’m Krishna, a BCom grad turned aspiring Full-Stack Developer!
 
-👀 I’m interested in exploring the world of full-stack development and creating innovative web applications.
+🚀 I’m passionate about crafting seamless user experiences and bringing them to life through full-stack development.
 
-🌱 I’m currently learning various technologies such as HTML, CSS, JavaScript, React for the front end, and Node.js, Express.js, PostgreSQL for the back end.
+🌱 I’ve completed The Complete 2024 Web Development Bootcamp and have built 50+ projects using HTML, CSS, JavaScript, React.js, Node.js, Express.js, and PostgreSQL. Currently, I’m working on a major project to further showcase my skills.
 
-💞️ I’m looking to collaborate on exciting full-stack projects where I can apply my skills and learn from others in the process.
+💻 I’m eager to collaborate on innovative projects where I can contribute and continue learning from others in the community.
 
-📫 You can reach me through my email at [radhakrishnanr2699@gmail.com]
+📫 Reach out to me at [radhakrishnanr2699@gmail.com]—let’s connect and create something amazing!
 
 😄 Pronouns: He/him
 
-⚡ Fun fact: I'm passionate about photography and love capturing the beauty of nature and architecture!
+📸 Fun fact: When I’m not coding, you’ll find me behind the camera, capturing the beauty of nature and architecture.
 
 
 <!---
